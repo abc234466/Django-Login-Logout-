@@ -20,3 +20,8 @@ Learn how to practice Django
     * [Tutorial](https://wsvincent.com/django-allauth-tutorial/) 
 
 
+---
+
+更多資源
+
+[Vitor Freitas](https://simpleisbetterthancomplex.com/tag/django/)
